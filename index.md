@@ -6,7 +6,7 @@
 
 
 
-1. [Conceptos básicos](http://www.tuinstitutoonline.com/cursos/scratchbasico_v1506/01conceptosbasicos.php)   
+1. [Conceptos básicos](http://www.tuinstitutoonline.com/cursos/scratchbasico_v1506/01conceptosbasicos.php){:target="_blank"}
 2. [Mi primer programa](http://www.tuinstitutoonline.com/cursos/scratchbasico_v1506/02miprimerprograma.php)  
 3. [Disfraces](http://www.tuinstitutoonline.com/cursos/scratchbasico_v1506/03disfraces.php)  
 4. [Fondos y objetos](http://www.tuinstitutoonline.com/cursos/scratchbasico_v1506/04fondos.php)  
