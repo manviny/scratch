@@ -24,4 +24,7 @@
 ## Juegos
 
 1. [Arkanoid](https://aprendescratchdotcom1.files.wordpress.com/2013/09/ejercicio-de-arkanoid.pdf){:target="_blank"}
-2. [Voborita](https://aprendescratchdotcom1.files.wordpress.com/2013/09/ejercicio-de-la-viborita.pdf){:target="_blank"}
+2. [Viborita](https://aprendescratchdotcom1.files.wordpress.com/2013/09/ejercicio-de-la-viborita.pdf){:target="_blank"}
+
+
+
