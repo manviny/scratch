@@ -5,4 +5,4 @@
 [5.- Sonidos](http://www.tuinstitutoonline.com/cursos/scratchbasico_v1506/05sonidos.php)  
 [6.- Dibujar con lápiz](http://www.tuinstitutoonline.com/cursos/scratchbasico_v1506/06dibujarlapiz.php)  
 [7.- Control. Repeticiones](http://www.tuinstitutoonline.com/cursos/scratchbasico_v1506/07bucles.php)  
-[8.- Eventos](http://www.tuinstitutoonline.com/cur
+
